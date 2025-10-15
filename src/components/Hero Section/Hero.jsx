@@ -1,8 +1,8 @@
 import React from "react";
 import Slider from "react-slick";
-import macBook from "../../assets/catogories/macBook.png";
+import macBook from "../../assets/catogories/macbook.png";
 import vr from "../../assets/catogories/vr.png";
-import headPhone from "../../assets/Hero/headPhone.png";
+import headPhone from "../../assets/Hero/headphone.png";
 import Button from "../shared/Button";
 
 const Hero = ({ handlerOrderPopups }) => {
