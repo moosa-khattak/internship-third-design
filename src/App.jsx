@@ -4,7 +4,7 @@ import Hero from './components/Hero Section/Hero'
 import Category from './components/Category/Category'
 import Services from './components/Service/Services'
 import Banner from './components/Banner/Banner'
-import headPhone from "./assets/Hero/headPhone.png"
+import headPhone from "./assets/Hero/headphone.png";
 import Products from './components/Products/Products'
 import watch from "./assets/catogories/smartWatch.png"
 import Blogs from './components/Blogs/Blogs'
