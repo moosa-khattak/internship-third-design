@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../shared/Button";
-import earPhone from "../../assets/catogories/earPhone.png";
+import earPhone from "../../assets/catogories/earphone.png";
 import watch from "../../assets/catogories/watch.png";
 import macbook from "../../assets/catogories/macbook.png";
 import gaming from "../../assets/catogories/gaming.png";
